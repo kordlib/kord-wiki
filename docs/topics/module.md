@@ -53,7 +53,7 @@ dependencies {
     <version>%version%</version>
 </dependency>
 ```
-<chapter title="Kord Snapshot Repository (Optional)" collapsible="true" id="unique-id">
+<chapter title="Kord Snapshot Repository (Optional)" collapsible="true" id="maven-snapshot-repository">
 
 ```xml
 <repository>
