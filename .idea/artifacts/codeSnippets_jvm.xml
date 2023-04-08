@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="codeSnippets-jvm">
+    <output-path>$PROJECT_DIR$/docs/codeSnippets/build/libs</output-path>
+    <root id="archive" name="codeSnippets-jvm.jar">
+      <element id="module-output" name="codeSnippets.jvmMain" />
+    </root>
+  </artifact>
+</component>

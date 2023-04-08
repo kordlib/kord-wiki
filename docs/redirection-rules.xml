@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/redirection-rules.dtd">
+<rules>
+    <rule id="${ID}">
+        <accepts>page.html</accepts>
+    </rule>
+    <rule id="57908a7d">
+        <description>Created after removal of "Logging" from Kord</description>
+        <accepts>Logging.html</accepts>
+    </rule>
+    <rule id="7aeaf35a">
+        <description>Created after removal of "Overview" from Kord</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+</rules>

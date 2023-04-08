@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="kord-wiki-writerside-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="kord-wiki-writerside-jvm.jar">
+      <element id="module-output" name="kord-wiki-writerside.jvmMain" />
+    </root>
+  </artifact>
+</component>

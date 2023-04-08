@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/product-profile.dtd">
+
+<instance-profile id="kord"
+                  name="Kord"
+                  start-page="Home.topic">
+
+    <toc-element topic="Home.topic">
+        <toc-element topic="rest.md">
+            <toc-element topic="Sending-a-Message.md"/>
+        </toc-element>
+        <toc-element topic="gateway.md">
+            <toc-element topic="Listening-for-Messages.md"/>
+        </toc-element>
+        <toc-element topic="voice.md">
+            <toc-element topic="Implementing-a-music-bot.md"/>
+            <toc-element toc-title="Using Lavalink"/>
+        </toc-element>
+        <toc-element topic="core.md">
+            <toc-element topic="Implementing-a-simple-bot.md"/>
+            <toc-element toc-title="Implementing Slash commands"/>
+            <toc-element toc-title="Interactions" topic="Interactions.md"/>
+            <toc-element toc-title="Caching"/>
+            <toc-element toc-title="Live entities"/>
+        </toc-element>
+        <toc-element topic="Getting-Started.md"/>
+    </toc-element>
+    <toc-element toc-title="API Reference" target-for-accept-web-file-names="https://dokka.kord.dev"/>
+</instance-profile>

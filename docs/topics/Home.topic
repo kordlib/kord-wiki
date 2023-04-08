@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+        SYSTEM "https://helpserver.labs.jb.gg/help/schemas/mvp/html-entities.dtd">
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://helpserver.labs.jb.gg/help/schemas/mvp/topic.v2.xsd"
+       title="Kord" id="Home">
+    <section-starting-page>
+        <title>Kord</title>
+        <description>
+            A coroutine-based, modularized implementation of the Discord API, written 100% in Kotlin.
+        </description>
+        <spotlight>
+            <a href="Getting-Started.md" type="idea" summary="Getting Started with Kord"/>
+            <a href="Interactions.md" type="development"
+               summary="Get started with Application Commands"/>
+        </spotlight>
+
+        <primary>
+            <title>Modules</title>
+            <a href="rest.md"/>
+            <a href="gateway.md"/>
+            <a href="voice.md"/>
+            <a href="core.md" summary="High-level abstraction of the Discord API"/>
+        </primary>
+
+        <secondary>
+            <title>Explore advanced features</title>
+            <a href="Implementing-a-music-bot.md"/>
+        </secondary>
+    </section-starting-page>
+</topic>
