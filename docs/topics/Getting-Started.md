@@ -52,7 +52,7 @@ aka `MessageCreateEvent`:
 
 ```kotlin
 ```
-{src="PingBot.kt"}
+{src="src/commonMain/kotlin/PingBot.kt" include-symbol="main"}
 
 That's it, you now have a bot that'll respond pongs to your pings. With that, you have the very basics covered.
 
