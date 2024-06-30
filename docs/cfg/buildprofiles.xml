@@ -9,7 +9,7 @@
     </variables>
     <build-profile instance="kord"/>
     <footer>
-        <copyright>Kord Team 2019-2023</copyright>
+        <copyright>Kord Team 2019-2024</copyright>
         <link href="https://github.com/kordlib">GitHub</link>
     </footer>
 </buildprofiles>
