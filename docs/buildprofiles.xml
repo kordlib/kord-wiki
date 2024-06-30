@@ -3,6 +3,9 @@
     <variables>
         <enable-browser-edits>true</enable-browser-edits>
         <browser-edits-url>https://github.com/kordlib/kord-wiki/edit/main/docs/</browser-edits-url>
+        <algolia-id>JYGRRNLGJT</algolia-id>
+        <algolia-index>kord_wiki</algolia-index>
+        <algolia-api-key>5923511b60eb8db61a58902f9d3d4cc4</algolia-api-key>
     </variables>
     <build-profile instance="kord"/>
     <footer>
